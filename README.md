@@ -5,7 +5,7 @@ Working from home can have a positive impact on morale, from lowered stress to b
 
 ## Communication
 
-* Slack
+* [Slack](https://slack.com/)
 * Zoom ( Video Conferencing )
 * Skype
 * Aircall
