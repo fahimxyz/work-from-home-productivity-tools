@@ -30,6 +30,4 @@ Working from home can have a positive impact on morale, from lowered stress to b
 * [Github](https://github.com/)
 
 ## Contributing
-Adding a tool to list is super simple. 
-
-To add your tool name, fork this repository, add your tool name and link in README.md file and submit a pull request. Don't forget the * !
+Adding a tool in this list is super simple. To add your tool name, fork this repository, add your tool name and link in README.md file and submit a pull request.
