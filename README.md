@@ -6,25 +6,25 @@ Working from home can have a positive impact on morale, from lowered stress to b
 ## Communication
 
 * [Slack](https://slack.com/)
-* Zoom ( Video Conferencing )
-* Skype
-* Aircall
-* Google Hangouts
+* [Hangouts Meet](https://gsuite.google.com/products/meet/)
+* [Zoom](https://zoom.us/) ( Video Conferencing )
+* [Skype](https://www.skype.com/en/)
+* [Aircall](https://aircall.io/)
 
 ## Sharing information
 
-* Dropbox
-* Google One
-* Front
+* [Dropbox](https://www.dropbox.com/)
+* [Google One](https://one.google.com/)
+* [Front](https://frontapp.com/)
 
 ## Task Management
 
-* Asana
-* Trello
-* Wp Project Manager Pro ( 3Month Free )
-* Monday
+* [Asana](https://asana.com/)
+* [Trello](https://trello.com)
+* [WP Project Manager Pro](https://wedevs.com/wp-project-manager-pro/) - ( 3Month Free )
+* [Monday](https://monday.com/)
 
 ## For developers
 
-* Bitbucket
-* Github
+* [Bitbucket](https://bitbucket.org/)
+* [Github](https://github.com/)
