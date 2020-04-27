@@ -29,5 +29,8 @@ Working from home can have a positive impact on morale, from lowered stress to b
 * [Bitbucket](https://bitbucket.org/)
 * [Github](https://github.com/)
 
+## Learning
+* [Skillshare](https://www.skillshare.com/home)
+
 ## Contributing
 Adding a tool in this list is super simple. To add your tool name, fork this repository, add your tool name and link in README.md file and submit a pull request.
